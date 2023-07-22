@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#5e0acc",
   },
   pressedItem: {
-    opacity: 0.5,
+    opacity: 0.6,
   },
   goalText: {
     color: "white",
